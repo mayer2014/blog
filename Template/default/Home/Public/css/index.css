@@ -1,7 +1,11 @@
 @charset "utf-8";
 
 #b-content .b-article,#b-content .b-chat,#b-content .b-comment,#b-content .b-one-article,#b-content .b-tag-title {
-    box-shadow: 0 1px 2px 0 #E2E2E2
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 0 1px 1px 0 #e8e8e8;
 }
 
 body {
@@ -116,6 +120,7 @@ a {
 }
 
 #b-public-nav .b-nav-cname a {
+    color: #ffffff;
     padding: 10px
 }
 
@@ -831,6 +836,7 @@ a {
     }
 
     #b-public-nav .navbar-header {
+        margin-right: 1rem;
         background-image: none
     }
 

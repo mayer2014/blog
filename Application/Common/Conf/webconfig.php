@@ -8,7 +8,7 @@ return array(
     'ADMIN_EMAIL'               =>  '841439703@qq.com',          // 站长邮箱
 
 //*************************************优化推广****************************************
-    'WEB_NAME'                  =>  'mayer博客',             //网站名：
+    'WEB_NAME'                  =>  'Nimip web',             //网站名：
     'WEB_KEYWORDS'              =>  'Nimip,mayer,技术博客,个人博客',         //网站关键字
     'WEB_DESCRIPTION'           =>  'mayer的个人技术博客,Nimip web',      //网站描述
     'AUTHOR'                    =>  'mayer',               //默认作者
@@ -17,7 +17,7 @@ return array(
 
 //*************************************水印设置****************************************
     'WATER_TYPE'                =>  '1',           //水印类型 0:不使用水印 1:文字水印 2:图片水印 3:文字和图片水印同时使用
-    'TEXT_WATER_WORD'           =>  'baijunyao.com',      //文字水印内容
+    'TEXT_WATER_WORD'           =>  'nimip.com',      //文字水印内容
     'TEXT_WATER_TTF_PTH'        =>  './Public/static/font/ariali.ttf',   //文字水印字体路径
     'TEXT_WATER_FONT_SIZE'      =>  '15', //文字水印文字字号
     'TEXT_WATER_COLOR'          =>  '#008CBA',     //文字水印文字颜色

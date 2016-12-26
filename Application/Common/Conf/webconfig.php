@@ -8,7 +8,7 @@ return array(
     'ADMIN_EMAIL'               =>  '841439703@qq.com',          // 站长邮箱
 
 //*************************************优化推广****************************************
-    'WEB_NAME'                  =>  'Nimip web',             //网站名：
+    'WEB_NAME'                  =>  '架构之美',             //网站名：
     'WEB_KEYWORDS'              =>  'Nimip,mayer,技术博客,个人博客',         //网站关键字
     'WEB_DESCRIPTION'           =>  'mayer的个人技术博客,Nimip web',      //网站描述
     'AUTHOR'                    =>  'mayer',               //默认作者

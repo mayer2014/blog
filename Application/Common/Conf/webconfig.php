@@ -4,19 +4,19 @@ return array(
 //*************************************网站设置****************************************
     'WEB_STATUS'                =>  '1',           //网站状态1:开启 0:关闭
     'WEB_CLOSE_WORD'            =>  '网站升级中，请稍后访问。',       //网站关闭时提示文字
-    'WEB_ICP_NUMBER'            =>  '粤ICP备14009546号-3',       // 网站ICP备案号
-    'ADMIN_EMAIL'               =>  '841439703@qq.com',          // 站长邮箱
+    'WEB_ICP_NUMBER'            =>  '粤ICP备17004071号',       // 网站ICP备案号
+    'ADMIN_EMAIL'               =>  'nimip@qq.com',          // 站长邮箱
 
 //*************************************优化推广****************************************
     'WEB_NAME'                  =>  '架构之美',             //网站名：
-    'WEB_KEYWORDS'              =>  'Nimip,mayer,技术博客,个人博客',         //网站关键字
-    'WEB_DESCRIPTION'           =>  'mayer的个人技术博客,Nimip web',      //网站描述
-    'AUTHOR'                    =>  'mayer',               //默认作者
-    'COPYRIGHT_WORD'            =>  '本文为Nimip web原创文章,转载无需和我联系,但请注明来自nimip.com',       //文章保留版权提示
-    'IMAGE_TITLE_ALT_WORD'      =>  'Nimip web', //图片默认title和alt
+    'WEB_KEYWORDS'              =>  'http://www.nimip.com/',         //网站关键字
+    'WEB_DESCRIPTION'           =>  'http://www.nimip.com/',      //网站描述
+    'AUTHOR'                    =>  'Mayer',               //默认作者
+    'COPYRIGHT_WORD'            =>  '本文为mayer原创文章,转载无需和我联系,但请注明来自架构之美nimip.com',       //文章保留版权提示
+    'IMAGE_TITLE_ALT_WORD'      =>  '架构之美', //图片默认title和alt
 
 //*************************************水印设置****************************************
-    'WATER_TYPE'                =>  '1',           //水印类型 0:不使用水印 1:文字水印 2:图片水印 3:文字和图片水印同时使用
+    'WATER_TYPE'                =>  '2',           //水印类型 0:不使用水印 1:文字水印 2:图片水印 3:文字和图片水印同时使用
     'TEXT_WATER_WORD'           =>  'nimip.com',      //文字水印内容
     'TEXT_WATER_TTF_PTH'        =>  './Public/static/font/ariali.ttf',   //文字水印字体路径
     'TEXT_WATER_FONT_SIZE'      =>  '15', //文字水印文字字号
